@@ -32,18 +32,6 @@ p {
 	font-weight: 300;
 	letter-spacing: 0.05rem;
 }
-.social{
-    text-align: center;
-    margin-top: 40px;
-}
-.social a{
-    font-size: 40px;
-    color: white;
-    margin-right: 20px;
-}
-.social a:hover{
-    color: rgb(89, 186, 231);
-}
 .section-title {
 	font-size: 4rem;
 	font-weight: 300;
@@ -545,6 +533,17 @@ p {
 }
 #footer .social-item:hover img {
 	filter: grayscale(0);
+}.social{
+    text-align: center;
+    margin-top: 40px;
+}
+.social a{
+    font-size: 40px;
+    color: white;
+    margin-right: 20px;
+}
+.social a:hover{
+    color: rgba(173, 137, 19, 0.729);
 }
 #footer p {
 	color: white;
